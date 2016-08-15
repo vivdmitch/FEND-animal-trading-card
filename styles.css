@@ -1,0 +1,48 @@
+body {
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+h3 {
+	padding: 2px;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 300px;
+	padding: 10px 10px 15px 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: -5px 0 -5px 0;
+    padding: 10px 10px 0px 10px;
+}
+
+.main {
+	width: 300px;
+	border: 1px solid #bdc5c7;
+	padding: 10px;
+	box-shadow: 5px 5px 2px 0px #bfb7bc;
+	line-height: 1.25;
+}
+
+.main-content {
+	width: 300px;
+	border: 1px solid #bdc5c7;
+	padding: 0px;
+}
+
+.feature-fact {
+	font-style: italic;
+	padding: 5px 10px 0px 10px;
+}
+
+.list-facts {
+	font-weight: bold;
+}
+
+.animal-description {
+	padding: 5px 10px 0px 10px;
+}
+
